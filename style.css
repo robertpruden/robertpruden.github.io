@@ -4,5 +4,6 @@ p{
 
 img{
   float: right;
+  border: 1px dotted black;
   margin: 0 0 10px 10px;
 }
