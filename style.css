@@ -14,6 +14,22 @@ body{
   color: black;
 }
 
+.outline{
+  border-bottom: 1px solid black;
+}
+
+.skills{
+  border-bottom: 1px solid black;
+}
+
+.experience{
+  border-bottom: 1px solid black;
+}
+
+.education{
+  border-bottom: 1px solid black;
+}  
+
 img{
   float: right;
   border: 1px solid black;
