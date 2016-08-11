@@ -3,11 +3,16 @@ body{
 }
 
 p{
-  color:blue;
+  color: blue;
 }
 
 img{
   float: right;
   border: 1px dotted black;
   margin: 0 0 10px 10px;
+}
+.footer {
+  font-style: italic;
+  font-size: 50%;
+  color: FF0000;
 }
