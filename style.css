@@ -2,8 +2,12 @@ body{
   background-color: GhostWhite;
 }
 
-p{
+.header{
   color: blue;
+}
+
+.name{
+  color: black;
 }
 
 img{
@@ -11,6 +15,7 @@ img{
   border: 1px dotted black;
   margin: 0 0 10px 10px;
 }
+
 .footer {
   font-style: italic;
   font-size: 80%;
